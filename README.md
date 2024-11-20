@@ -1,4 +1,4 @@
-# README for Capstone Project: Dagang Besi Application
+# README for Capstone Project: Toko Besi Application
 
 ## Introduction
 
