@@ -1,6 +1,3 @@
-# Creating a README file with the provided content.
-
-readme_content = """
 # README for Capstone Project: Dagang Besi Application
 
 ## Introduction
